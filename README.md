@@ -44,9 +44,7 @@ Before running the game, make sure you have the following installed:
 
 Python 3.x
 Pygame Library (pip install pygame)
-Installation Steps
-Clone the Repository: git clone https://github.com/grishma-gedela/Snake-Game.git
-
+Installation Steps:
 Install Pygame: If Pygame is not installed, install it using pip: pip install pygame
 
 And at last Run the Game
